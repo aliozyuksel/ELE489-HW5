@@ -32,13 +32,13 @@ This repository contains a hands-on machine learning project that explores how l
 - Linear SVM is trained on the toy dataset.
 - Support vectors and decision boundary are visualized.
 - Misclassified samples are identified and highlighted.
-- Margin size and the decision equation \( \vec{w} \cdot \vec{x} + b = 0 \) are shown.
+- Margin size and the decision equation $$ \ \vec{w} \cdot \vec{x} + b = 0 \ $$ are shown.
 - Failure analysis included to explain why linear SVM struggles.
 
 ### Q3: Non-Linear SVM with RBF Kernel
 - Radial Basis Function (RBF) kernel is selected to map data to a higher-dimensional space.
 - 3D surface plot shows the non-linear decision surface.
-- Mathematical mapping via feature transform \( \phi(x_1, x_2) = (x_1, x_2, x_1^2 + x_2^2) \) is demonstrated.
+- Mathematical mapping via feature transform $$ \ \phi(x_1, x_2) = (x_1, x_2, x_1^2 + x_2^2) \ $$ is demonstrated.
 
 ### Q4: 2D Decision Boundary of Non-Linear SVM
 - 2D contour plot of RBF SVM decision regions.
